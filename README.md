@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashi211
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning AWS and DATA Sciencw
+- 🌱 I’m currently learning AWS and DATA Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
