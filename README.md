@@ -1,4 +1,4 @@
-# Hi, I'm @shashi211 👋
+# Hi, I'm @shashi-prakash-02👋
 
 - 🎓 I hold an **M.Tech in Data Science** from **BITS Pilani**.
 - 💼 I currently serve as an **Architecture and Engineering Specialist** at a leading financial institution, where I architect and deploy robust **AWS solutions**.
